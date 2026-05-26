@@ -1,0 +1,15 @@
+User Opens Streamlit Web App
+        ↓
+Enter Customer Information
+        ↓
+Upload Telecom Call Summary Excel
+        ↓
+Click Generate Invoice
+        ↓
+LangChain + RAG Process Data
+        ↓
+Generate Professional Invoice
+        ↓
+Export PDF
+        ↓
+Download Invoice
